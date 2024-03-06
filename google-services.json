@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "949924443849",
+    "project_id": "whole-hog",
+    "storage_bucket": "whole-hog.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949924443849:android:3c229013b225a5d727bf18",
+        "android_client_info": {
+          "package_name": "com.wholehog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdUDjDVV8_tSadrmlnhh4FfifmGqUvhuA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
